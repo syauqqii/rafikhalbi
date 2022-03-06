@@ -1,6 +1,5 @@
 ### <h4 align="center">👨‍💻 HELLO 👨‍💻</h4>
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rafikhalbi&show_icons=true&theme=radical)<br>
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rafikhalbi&repo=BFR&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rafikhalbi&repo=calender&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rafikhalbi&repo=game&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rafikhalbi&repo=RAFIKHALBI&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
