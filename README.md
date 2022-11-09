@@ -1,4 +1,3 @@
-# <img src="https://kosred.com/a/hiutkn.png" width="100px"></img>
 <div>
  <img src="https://visitor-badge.laobi.icu/badge?page_id=Rafikhalbi" />
  <a href="https://github.com/Rafikhalbi"><img src="https://img.shields.io/github/followers/Rafikhalbi?label=followers&style=social"/></a>
